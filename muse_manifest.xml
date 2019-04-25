@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556185882610">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556200114043">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="386678168" ref="index"/>
-    <file name="nomq_index.css" crc="254708961" ref="index"/>
+    <file name="index.css" crc="234830723" ref="index"/>
+    <file name="nomq_index.css" crc="461629817" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,7 +19,7 @@
     <file name="background-crop-u425.jpg" crc="4049084447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-flipkart-png-flipkart-logo-5000.png" crc="243640679" seo="true" ref="index">
+    <file name="jabong_logo_logotype.jpg" crc="4279812261" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -29,9 +29,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jabong_logo_logotype.jpg" crc="4231493720" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u267.jpg" crc="403753863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="ajio-logo-vector-crop-u287.jpg" crc="3829985526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="makemytrip-logo-crop-u2672.jpg" crc="3914875345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ajio-logo-vector-crop-u2872.jpg" crc="518427667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limeroad.jpg" crc="374729231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -39,37 +49,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u267.jpg" crc="366861768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ajio-logo-vector-crop-u287.jpg" crc="348737167" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad371x153.jpg" crc="263325032" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="makemytrip-logo-crop-u2672.jpg" crc="120522568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ajio-logo-vector-crop-u2872.jpg" crc="4092092946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad.jpg" crc="158263901" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="background-crop-u4252.jpg" crc="515275978" seo="true" ref="index">
+    <file name="background-crop-u4252.jpg" crc="3888599540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="backgroundr-crop-u355.jpg" crc="389207988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2673.jpg" crc="324954537" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2673.jpg" crc="4079660778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2873.jpg" crc="376889719" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad328x135.jpg" crc="3894106238" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2873.jpg" crc="4283972403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4253.jpg" crc="67745243" seo="true" ref="index">
@@ -78,72 +67,73 @@
     <file name="backgroundr-crop-u3552.jpg" crc="3860639553" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2674.jpg" crc="450947896" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2674.jpg" crc="3803078711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2874.jpg" crc="192187613" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad466x193.jpg" crc="374729231" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2874.jpg" crc="3797430895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4254.jpg" crc="195571578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3553.jpg" crc="4223284620" seo="true" ref="index">
+    <file name="backgroundr-crop-u3553.jpg" crc="228037634" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2675.jpg" crc="4690963" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2675.jpg" crc="84404675" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2875.jpg" crc="391256537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad251x104.jpg" crc="3814867130" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2875.jpg" crc="4151554185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4255.jpg" crc="4265098338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3554.jpg" crc="91903152" seo="true" ref="index">
+    <file name="backgroundr-crop-u3554.jpg" crc="3852704794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2676.jpg" crc="320277672" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2676.jpg" crc="3781373243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2876.jpg" crc="3921069575" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad236x98.jpg" crc="4143010875" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2876.jpg" crc="4023532371" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4256.jpg" crc="293485129" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3555.jpg" crc="228433072" seo="true" ref="index">
+    <file name="backgroundr-crop-u3555.jpg" crc="225189652" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2677.jpg" crc="3865439231" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2677.jpg" crc="362048729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2877.jpg" crc="4032683933" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2877.jpg" crc="4133844677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="limeroad197x82.jpg" crc="4102615846" seo="true" ref="index">
+    <file name="backgroundr-crop-u3556.jpg" crc="60019630" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3556.jpg" crc="107226540" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2678.jpg" crc="3772974199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2678.jpg" crc="101652350" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2878.jpg" crc="217370765" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2878.jpg" crc="3840882551" seo="true" ref="index">
+    <file name="1280px-aliexpress_logosvg.png" crc="276517943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="limeroad175x73.jpg" crc="319207119" seo="true" ref="index">
+    <file name="limeroad-crop-u307.jpg" crc="4079977068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limeroad-crop-u3072.jpg" crc="4085338695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="48536959" seo="true" mt="1555985964041" redirect="true"/>
+  <file name="index.html" crc="3926500999" seo="true" mt="1556200097218" redirect="true"/>
 </manifest>
