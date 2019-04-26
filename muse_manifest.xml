@@ -1,20 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556200114043">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556262760585">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="234830723" ref="index"/>
     <file name="nomq_index.css" crc="461629817" ref="index"/>
+    <file name="airpods.css" crc="333553715" ref="airpods"/>
+    <file name="nomq_airpods.css" crc="4090390385" ref="airpods"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:airpods"/>
+    <file name="museutils.js" crc="3803043152" ref="index:airpods"/>
+    <file name="whatinput.js" crc="86476730" ref="index:airpods"/>
+    <file name="museconfig.js" crc="380897831" ref="index:airpods"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:airpods"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:airpods"/>
+    <file name="require.js" crc="4157109226" ref="index:airpods"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:airpods"/>
     <file name="best-offers-favicon.ico" crc="72278761" ref="index"/>
     <file name="background-crop-u425.jpg" crc="4049084447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -118,7 +120,7 @@
     <file name="ajio-logo-vector-crop-u2878.jpg" crc="217370765" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1280px-aliexpress_logosvg.png" crc="276517943" seo="true" ref="index">
+    <file name="1280px-aliexpress_logosvg.png" crc="411360730" seo="true" ref="index:airpods">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -127,6 +129,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
     </file>
     <file name="limeroad-crop-u307.jpg" crc="4079977068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -134,6 +144,94 @@
     <file name="limeroad-crop-u3072.jpg" crc="4085338695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="airpods-favicon.ico" crc="72278761" ref="airpods"/>
+    <file name="background-crop-u675.jpg" crc="205605779" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u752.jpg" crc="512581206" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-4.png" crc="239286072" ref="airpods"/>
+    <file name="u843-4.png" crc="15870271" ref="airpods"/>
+    <file name="shopclues_logo.jpg" crc="3903461079" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-42.png" crc="146657413" ref="airpods"/>
+    <file name="u843-42.png" crc="4232063857" ref="airpods"/>
+    <file name="41dytv1jjal_sx466_-crop-u7522.jpg" crc="343821836" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="background-crop-u6752.jpg" crc="3888599540" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u677.jpg" crc="389207988" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7523.jpg" crc="4232732060" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-43.png" crc="326071147" ref="airpods"/>
+    <file name="u843-43.png" crc="364792889" ref="airpods"/>
+    <file name="background-crop-u6753.jpg" crc="67745243" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6772.jpg" crc="3860639553" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_.jpg" crc="125795677" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-44.png" crc="57643755" ref="airpods"/>
+    <file name="u843-44.png" crc="3815380387" ref="airpods"/>
+    <file name="background-crop-u6754.jpg" crc="195571578" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6773.jpg" crc="228037634" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7524.jpg" crc="395524336" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-45.png" crc="4290684673" ref="airpods"/>
+    <file name="u843-45.png" crc="535006133" ref="airpods"/>
+    <file name="background-crop-u6755.jpg" crc="4265098338" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6774.jpg" crc="3852704794" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7525.jpg" crc="237574865" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-46.png" crc="4294539036" ref="airpods"/>
+    <file name="u843-46.png" crc="3917380443" ref="airpods"/>
+    <file name="background-crop-u6756.jpg" crc="293485129" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6775.jpg" crc="225189652" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7526.jpg" crc="212575378" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-47.png" crc="123041117" ref="airpods"/>
+    <file name="u843-47.png" crc="3902856958" ref="airpods"/>
+    <file name="backgroundr-crop-u6776.jpg" crc="60019630" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_200x200.jpg" crc="3870083983" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-48.png" crc="389744930" ref="airpods"/>
+    <file name="u843-48.png" crc="29780104" ref="airpods"/>
   </folder>
   <file name="index.html" crc="3926500999" seo="true" mt="1556200097218" redirect="true"/>
+  <file name="airpods.html" crc="431823826" seo="true" mt="1556262746156" redirect="true"/>
 </manifest>
