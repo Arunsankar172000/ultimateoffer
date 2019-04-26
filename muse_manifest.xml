@@ -1,25 +1,27 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556185882610">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultimateoffer.ga" resolutions="1x" timestamp="1556262760585">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="386678168" ref="index"/>
-    <file name="nomq_index.css" crc="254708961" ref="index"/>
+    <file name="index.css" crc="234830723" ref="index"/>
+    <file name="nomq_index.css" crc="461629817" ref="index"/>
+    <file name="airpods.css" crc="333553715" ref="airpods"/>
+    <file name="nomq_airpods.css" crc="4090390385" ref="airpods"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:airpods"/>
+    <file name="museutils.js" crc="3803043152" ref="index:airpods"/>
+    <file name="whatinput.js" crc="86476730" ref="index:airpods"/>
+    <file name="museconfig.js" crc="380897831" ref="index:airpods"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:airpods"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:airpods"/>
+    <file name="require.js" crc="4157109226" ref="index:airpods"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:airpods"/>
     <file name="best-offers-favicon.ico" crc="72278761" ref="index"/>
     <file name="background-crop-u425.jpg" crc="4049084447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-flipkart-png-flipkart-logo-5000.png" crc="243640679" seo="true" ref="index">
+    <file name="jabong_logo_logotype.jpg" crc="4279812261" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -29,9 +31,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jabong_logo_logotype.jpg" crc="4231493720" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u267.jpg" crc="403753863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="ajio-logo-vector-crop-u287.jpg" crc="3829985526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="makemytrip-logo-crop-u2672.jpg" crc="3914875345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ajio-logo-vector-crop-u2872.jpg" crc="518427667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="limeroad.jpg" crc="374729231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -39,37 +51,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u267.jpg" crc="366861768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ajio-logo-vector-crop-u287.jpg" crc="348737167" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad371x153.jpg" crc="263325032" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="makemytrip-logo-crop-u2672.jpg" crc="120522568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ajio-logo-vector-crop-u2872.jpg" crc="4092092946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad.jpg" crc="158263901" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="background-crop-u4252.jpg" crc="515275978" seo="true" ref="index">
+    <file name="background-crop-u4252.jpg" crc="3888599540" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="backgroundr-crop-u355.jpg" crc="389207988" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2673.jpg" crc="324954537" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2673.jpg" crc="4079660778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2873.jpg" crc="376889719" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad328x135.jpg" crc="3894106238" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2873.jpg" crc="4283972403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4253.jpg" crc="67745243" seo="true" ref="index">
@@ -78,72 +69,169 @@
     <file name="backgroundr-crop-u3552.jpg" crc="3860639553" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2674.jpg" crc="450947896" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2674.jpg" crc="3803078711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2874.jpg" crc="192187613" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad466x193.jpg" crc="374729231" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2874.jpg" crc="3797430895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4254.jpg" crc="195571578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3553.jpg" crc="4223284620" seo="true" ref="index">
+    <file name="backgroundr-crop-u3553.jpg" crc="228037634" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2675.jpg" crc="4690963" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2675.jpg" crc="84404675" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2875.jpg" crc="391256537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad251x104.jpg" crc="3814867130" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2875.jpg" crc="4151554185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4255.jpg" crc="4265098338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3554.jpg" crc="91903152" seo="true" ref="index">
+    <file name="backgroundr-crop-u3554.jpg" crc="3852704794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2676.jpg" crc="320277672" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2676.jpg" crc="3781373243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2876.jpg" crc="3921069575" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="limeroad236x98.jpg" crc="4143010875" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2876.jpg" crc="4023532371" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-crop-u4256.jpg" crc="293485129" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3555.jpg" crc="228433072" seo="true" ref="index">
+    <file name="backgroundr-crop-u3555.jpg" crc="225189652" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2677.jpg" crc="3865439231" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2677.jpg" crc="362048729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2877.jpg" crc="4032683933" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2877.jpg" crc="4133844677" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="limeroad197x82.jpg" crc="4102615846" seo="true" ref="index">
+    <file name="backgroundr-crop-u3556.jpg" crc="60019630" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="backgroundr-crop-u3556.jpg" crc="107226540" seo="true" ref="index">
+    <file name="makemytrip-logo-crop-u2678.jpg" crc="3772974199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="makemytrip-logo-crop-u2678.jpg" crc="101652350" seo="true" ref="index">
+    <file name="ajio-logo-vector-crop-u2878.jpg" crc="217370765" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ajio-logo-vector-crop-u2878.jpg" crc="3840882551" seo="true" ref="index">
+    <file name="1280px-aliexpress_logosvg.png" crc="411360730" seo="true" ref="index:airpods">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="limeroad-crop-u307.jpg" crc="4079977068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="limeroad175x73.jpg" crc="319207119" seo="true" ref="index">
+    <file name="limeroad-crop-u3072.jpg" crc="4085338695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="airpods-favicon.ico" crc="72278761" ref="airpods"/>
+    <file name="background-crop-u675.jpg" crc="205605779" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u752.jpg" crc="512581206" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-4.png" crc="239286072" ref="airpods"/>
+    <file name="u843-4.png" crc="15870271" ref="airpods"/>
+    <file name="shopclues_logo.jpg" crc="3903461079" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-42.png" crc="146657413" ref="airpods"/>
+    <file name="u843-42.png" crc="4232063857" ref="airpods"/>
+    <file name="41dytv1jjal_sx466_-crop-u7522.jpg" crc="343821836" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="background-crop-u6752.jpg" crc="3888599540" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u677.jpg" crc="389207988" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7523.jpg" crc="4232732060" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-43.png" crc="326071147" ref="airpods"/>
+    <file name="u843-43.png" crc="364792889" ref="airpods"/>
+    <file name="background-crop-u6753.jpg" crc="67745243" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6772.jpg" crc="3860639553" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_.jpg" crc="125795677" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-44.png" crc="57643755" ref="airpods"/>
+    <file name="u843-44.png" crc="3815380387" ref="airpods"/>
+    <file name="background-crop-u6754.jpg" crc="195571578" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6773.jpg" crc="228037634" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7524.jpg" crc="395524336" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-45.png" crc="4290684673" ref="airpods"/>
+    <file name="u843-45.png" crc="535006133" ref="airpods"/>
+    <file name="background-crop-u6755.jpg" crc="4265098338" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6774.jpg" crc="3852704794" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7525.jpg" crc="237574865" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-46.png" crc="4294539036" ref="airpods"/>
+    <file name="u843-46.png" crc="3917380443" ref="airpods"/>
+    <file name="background-crop-u6756.jpg" crc="293485129" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="backgroundr-crop-u6775.jpg" crc="225189652" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_-crop-u7526.jpg" crc="212575378" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-47.png" crc="123041117" ref="airpods"/>
+    <file name="u843-47.png" crc="3902856958" ref="airpods"/>
+    <file name="backgroundr-crop-u6776.jpg" crc="60019630" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="41dytv1jjal_sx466_200x200.jpg" crc="3870083983" seo="true" ref="airpods">
+      <caption webpage="airpods" alt=""/>
+    </file>
+    <file name="u832-48.png" crc="389744930" ref="airpods"/>
+    <file name="u843-48.png" crc="29780104" ref="airpods"/>
   </folder>
-  <file name="index.html" crc="48536959" seo="true" mt="1555985964041" redirect="true"/>
+  <file name="index.html" crc="3926500999" seo="true" mt="1556200097218" redirect="true"/>
+  <file name="airpods.html" crc="431823826" seo="true" mt="1556262746156" redirect="true"/>
 </manifest>
