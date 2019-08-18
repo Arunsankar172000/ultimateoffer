@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: creditsonline.ga
+Token: 0d13aa62590b0a549f4960fafe4fc87994cc833bdc3f0d6f28c2d666f58f1c91
